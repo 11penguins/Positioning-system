@@ -115,7 +115,7 @@ v &= \frac{Y_{I}}{d_{y}} + c_{y}
 \end{aligned}
 $$
 
-Here, `dₓ` and `d_y` represent the actual length and height of a pixel, which are typically known parameters of a camera. `cₓ` and `cᵧ` are the translation amounts of the image plane coordinate system origin (i.e., the optical center).
+Here, `dₓ` and `dᵧ` represent the actual length and height of a pixel, which are typically known parameters of a camera. `cₓ` and `cᵧ` are the translation amounts of the image plane coordinate system origin (i.e., the optical center).
 
 ###  4. Integrated Transformation Pipeline
 Based on the above derivation, we can establish the relationship between the coordinates of a point in the image plane coordinate system and its coordinates in the camera coordinate system.
