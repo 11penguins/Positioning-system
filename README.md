@@ -80,6 +80,7 @@ Z_w \\
 1
 \end{bmatrix}
 $$
+
 The table below uses **c** to denote points in the **camera coordinate system**, while **w** represents in the **world coordinate system**.
 
 ###  2. Camera Coordinate System ——> Image Plane Coordinate System
