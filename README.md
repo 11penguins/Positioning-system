@@ -90,6 +90,7 @@ The table below uses **c** to denote points in the **camera coordinate system**,
 </div>
 
 As illustrated in the figure, the transformation from the **camera coordinate system** to the **image plane coordinate system** can be derived using the geometric principle of **similar triangles**, with calculations based on **the camera's focal length**. The specific formulation is as follows:
+
 $$
 \frac{Z_{C}}{f} = \frac{X_{C}}{X_{I}} = \frac{Y_{C}}{Y_{I}}
 $$
